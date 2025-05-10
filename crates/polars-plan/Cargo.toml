@@ -76,6 +76,7 @@ temporal = [
   "polars-core/dtype-time",
   "polars-core/dtype-i8",
   "polars-core/dtype-i16",
+  "polars-core/strings"
 ]
 # debugging purposes
 fmt = ["polars-core/fmt"]
